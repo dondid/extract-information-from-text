@@ -1,0 +1,34 @@
+Exemplu de text pentru testare:
+
+Bună ziua,
+
+Vă contactez în legătură cu colaborarea noastră viitoare. Puteți să mă contactați la adresa mea de email personal: john.doe@gmail.com sau la cel de serviciu: jdoe@company.com.
+
+Pentru detalii suplimentare, puteți discuta cu colegul meu, Alex Smith, la alex.smith@business.ro sau alex-smith@mail.business.ro.
+
+Dacă nu răspund, încercați numărul meu de telefon: 0721-123.456 sau +40721.123 456. Alternativ, puteți suna la birou: 021-123-4567 sau 0312.123.456.
+
+Site-ul nostru corporativ este https://www.company.com, iar pentru suport vizitați http://support.company.com/help.
+
+Alte resurse utile:
+
+Blog: blog.example.org
+
+Forum: forum.example.org/index.php
+
+Documentație: docs.example.com/en-US
+
+Pentru întrebări urgente, contactați echipa tehnică:
+
+Maria Popescu: maria.popescu@tech.ro, 0745-678-912
+
+Ion Ionescu: ion.ionescu@tech.ro, 0746.789.123
+
+Aștept cu interes răspunsul dumneavoastră.
+
+Cu respect,
+John Doe
+Director de Proiect
+Comp@ny SRL (nu este adresă de email)
+
+PS: Dacă găsiți probleme, raportați la bug-report@company.com sau support@company.com.
